@@ -1,4 +1,4 @@
-﻿//Программа на вычисление большего числа
+﻿//Программа на вычисление большего числа из трех чисел
 Console.WriteLine("Введите 1-е число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите 2-е число");
